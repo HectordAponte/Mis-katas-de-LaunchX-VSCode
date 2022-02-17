@@ -6,4 +6,4 @@ Sí resultó:
 
 1) Guardar cambios en el documento
 2) Ir al icono de control de versiones
-3) 
+3) Stage changes con el +
