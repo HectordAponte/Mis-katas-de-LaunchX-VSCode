@@ -1,4 +1,4 @@
-# Mis atas de LaunchX
+# Mis katas de LaunchX
 Mis katas resueltas para la misión Programación en Launch X Full Stack Web Developer
 - Voy a hacer esto en GitHUb
 
