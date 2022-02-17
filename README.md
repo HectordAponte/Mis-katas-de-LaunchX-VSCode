@@ -4,4 +4,6 @@ Mis katas resueltas para la misión Programación en Launch X Full Stack Web Dev
 
 Sí resultó:
 
-1) Guardar cambios
+1) Guardar cambios en el documento
+2) Ir al icono de control de versiones
+3) 
