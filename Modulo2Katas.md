@@ -1,3 +1,7 @@
+# Misión: Onboarding - Python
+## Módulo 2: Crear y administrar proyectos
+### Tripulante: Héctor D. Aponte
+
 # Ejercicio - Crear un paquete
 
 En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para no afectar a los paquetes instalados globalmente u otros programas que se ejecutan en tu máquina.
@@ -18,6 +22,8 @@ Crea un entorno virtual mediante ``venv``
     ``
     Ahora tienes un directorio (folder) ``env`` creado en tu terminal.
 
+![](https://i.imgur.com/GtYkKIG.png)
+
 * Ejecuta el comando para activar el entorno virtual: ``source env/bin/activate``
 
     ```
@@ -36,6 +42,8 @@ Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno vi
 
 ![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
 
+![](https://i.imgur.com/VMaQIJb.png)
+
 ## Instalar una biblioteca
 
 Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y saber que la biblioteca solo existirá en el entorno virtual.
@@ -45,6 +53,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     ```
     pip freeze
     ```
+![](https://i.imgur.com/3H1N1jZ.png)
 
     No deberías obtener respuesta. A continuación, veamos cómo cambia la salida de ``pip freeze`` cuando se agrega una biblioteca (un paquete).
 
@@ -57,6 +66,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     ```
     Successfully installed python-dateutil-2.8.2 six-1.16.0
     ```
+
 * Vuelve a ejecutar ```pip freeze``` para ver cómo ha cambiado tu lista de bibliotecas:
     ```
     pip freeze
@@ -66,6 +76,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     python-dateutil==2.8.2
     six==1.16.0
     ```
+![](https://i.imgur.com/SOBW3XF.png)
 
 ### Desactivar un entorno virtual
 
@@ -77,11 +88,12 @@ deactivate
 ```
 
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
+![](https://i.imgur.com/0jWtlR9.png)
 
-¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
+- [x] **¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.**
 
 
-Curso Propedútico de Python para Launch X - Innovacción Virtual.
+Curso Propedéutico de Python para Launch X - Innovacción Virtual.
 
 Material desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX, traducción e implementación por: Fernanda Ochoa - Learning Producer de LaunchX.
 
