@@ -135,6 +135,7 @@ Traceback (most recent call last):
     configuration = open('config.txt')
 IsADirectoryError: [Errno 21] Is a directory: 'config.txt'
 ```
+![](https://i.imgur.com/LgsgiF2.png)
 
 Una manera poco útil de controlar este error sería detectar todas las excepciones posibles para evitar un traceback. Para comprender por qué detectar todas las excepciones es problemático, probaremos actualizando la función `main()`:
 
