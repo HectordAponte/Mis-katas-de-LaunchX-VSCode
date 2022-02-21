@@ -6,7 +6,7 @@
 - Descargué el zip desde el repositorio de LaunchX-InnovaccionVirtual / CursoIntroPython
 - Descomprimí el repositorio en un directorio local (C:\) y separé las katas a resolver
 - Creé este repositorio en mi perfil de GitHub y subí las katas arrastrando desde el Explorador de Windows.
-- Instalé la extensión **GitHub Repositories** en Visual Studio Code.
+- Instalé la extensión [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) en Visual Studio Code.
 - Desde allí, me conecté a mi repositorio donde están mis katas y siempre se mantienen sincronizadas haciendo push-pull.
 - Entiendo que las katas siempre están en línea y solamente creé localmente los archivos \*.py que tenía que correr desde la línea de comandos.
 - También subí estos últimos arranstrándolos a mi repositorio para que se mantuvieran junto con las katas de Jupyter.
